@@ -6,14 +6,14 @@
 /*   By: panoma <panoma@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/27 20:54:54 by panoma            #+#    #+#             */
-/*   Updated: 2023/06/30 23:00:51 by panoma           ###   ########.fr       */
+/*   Updated: 2023/07/01 00:24:58 by panoma           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_BONUS_H
 # define GET_NEXT_LINE_BONUS_H
 # ifndef BUFFER_SIZE
-#  define BUFFER_SIZE 10000
+#  define BUFFER_SIZE 42
 # endif
 
 # include <unistd.h>
